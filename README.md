@@ -5,6 +5,8 @@
 The Guard is a Telegram bot made to help admins manage their groups.
 
 Initially created to moderate [The Devs Network](https://thedevs.network).
+--
+## هذا "فرع" لاضافة دعم اللغات للمشروع
 
 **NOTE: The Guard is in beta phase;**
 **it has known issues, but it's successfully being used in production**
